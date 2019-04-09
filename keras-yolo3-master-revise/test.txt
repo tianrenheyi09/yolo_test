@@ -1,0 +1,3 @@
+E:\object_detection\keras-yolo3-master/VOCdevkit/VOC2012/JPEGImages/23.jpg 877,665,1018,775,0
+E:\object_detection\keras-yolo3-master/VOCdevkit/VOC2012/JPEGImages/32.jpg 922,621,1058,747,0
+E:\object_detection\keras-yolo3-master/VOCdevkit/VOC2012/JPEGImages/41.jpg 906,577,1065,737,0

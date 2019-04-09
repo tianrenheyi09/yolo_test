@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000022.jpg</filename>
+	<path>E:\object_detection\keras-yolo3-master-revise\VOCdevkit\VOC2007\JPEGImages\000022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>849</xmin>
+			<ymin>647</ymin>
+			<xmax>987</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+</annotation>

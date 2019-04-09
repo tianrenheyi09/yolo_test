@@ -1,0 +1,1 @@
+E:\object_detection\keras-yolo3-master/VOCdevkit/VOC2012/JPEGImages/17.jpg 811,653,943,765,0

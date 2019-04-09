@@ -1,0 +1,6 @@
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000005.jpg 656,534,765,646,0
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000006.jpg 677,537,782,651,0
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000019.jpg 856,604,982,727,0
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000032.jpg 920,621,1060,752,0
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000039.jpg 865,568,1041,734,0
+E:\object_detection\keras-yolo3-master-revise/VOCdevkit/VOC2007/JPEGImages/000041.jpg 908,578,1068,740,0
